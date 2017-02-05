@@ -1,5 +1,7 @@
 # jasmine-karma
 
+aaa
+
 ## Overview
 
 karma jasmine を使用したjavascript テストのサンプル  
